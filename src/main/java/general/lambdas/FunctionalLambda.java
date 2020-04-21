@@ -23,6 +23,12 @@ public class FunctionalLambda {
     }
 
     static BiConsumer<Integer, Integer> lambdaWrapped(BiConsumer<Integer, Integer> consumer) {
-        return consumer;
+        return (k, v) -> {
+            try {
+                consumer.accept(k, v);
+            }catch(ArithmeticException ex){
+                System.out.println("Exception caught : " + ex);
+            }
+        };
     }
 }
