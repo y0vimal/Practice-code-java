@@ -1,28 +1,28 @@
 
+z
+java:S1149'"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(²äÜøÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(¼ä©ôÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(‰¾Ò‹
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ãôïúÿÿÿÿ
+N
+java:S4973"9Use the "equals" method if value comparison was intended.( ºÍ
 6
 java:S2129" Remove this "String" constructor(°‹ÃÇ
 E
 java:S2201	"*The return value of "concat" must be used.(Ü—ÅÉıÿÿÿÿ
-S	java:S106)"9Replace this use of System.out or System.err by a logger.(‘ë‰²ÿÿÿÿÿ
-6
-java:S2129" Remove this "String" constructor(¸Íş
-S	java:S106 "9Replace this use of System.out or System.err by a logger.(ãôïúÿÿÿÿ
-M	java:S106
-"9Replace this use of System.out or System.err by a logger.(ƒÚáB
-S	java:S1063"9Replace this use of System.out or System.err by a logger.(¥œ´šıÿÿÿÿ
-N
-java:S4973"9Use the "equals" method if value comparison was intended.( ºÍ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
-S	java:S106*"9Replace this use of System.out or System.err by a logger.(¼ä©ôÿÿÿÿÿ
-z
-java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜‡™äøÿÿÿÿ
-6
-java:S2129" Remove this "String" constructor(‰¾Ò‹
-M	java:S106"9Replace this use of System.out or System.err by a logger.( ºÍ
-S	java:S1064"9Replace this use of System.out or System.err by a logger.(¦£”şÿÿÿÿ
-z
-java:S1149'"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(²äÜøÿÿÿÿ
-\
-java:S1192"FDefine a constant instead of duplicating this literal "Hello" 8 times.(°‹ÃÇ
 u
 java:S1149&"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í÷é¾
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+6
+java:S2129" Remove this "String" constructor(¸Íş
+M	java:S106"9Replace this use of System.out or System.err by a logger.( ºÍ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(¥œ´šıÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(¦£”şÿÿÿÿ
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜‡™äøÿÿÿÿ
+\
+java:S1192"FDefine a constant instead of duplicating this literal "Hello" 8 times.(°‹ÃÇ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(‘ë‰²ÿÿÿÿÿ

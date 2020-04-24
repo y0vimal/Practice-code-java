@@ -1,0 +1,9 @@
+
+s
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'ObjIntConsumer<Integer>'(¼İÓ
+B
+java:S1602",Remove useless curly braces around statement(¤éó›
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áŸ‹Ö
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(š‹şÊûÿÿÿÿ8”Œì™.
+s
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'ObjIntConsumer<Integer>'(¾ş©Ğ
