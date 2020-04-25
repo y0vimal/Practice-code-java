@@ -1,6 +1,6 @@
 
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8äÕÌî™.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÌÈ»8ØÀ¿î™.
 I
 java:S1612",Replace this lambda with a method reference.(—Ï¢–8ÆîÚî™.
-X	java:S125"<This block of commented-out lines of code should be removed.(ÌÈ»8ØÀ¿î™.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8äÕÌî™.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8Ïßßî™.

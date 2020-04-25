@@ -7,3 +7,15 @@ c
 3src/main/java/general/lambdas/FunctionalLambda.java,4\c\4c9f97bf8a64c4a013f22058ac76d61d9b1d9b1d
 k
 ;src/main/java/general/lambdas/MethodReferencesExamples.java,0\7\072a3423a81407b93995f3d38b9e1beb75b6e3aa
+_
+/src/main/java/general/lambdas/RunnableImpl.java,1\d\1d1d02711aafdd4672961ab8bf833d09d0104778
+V
+&src/main/java/MathUtils/MathUtils.java,a\5\a5cc3b0af58d80acac9c1ba14fbd83703b6f1db7
+[
++src/main/java/general/lambdas/Practice.java,a\8\a8ff4a580b8ca7b61122f4d302f478ae81d46661
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/main/java/impl/ListImpl.java,c\b\cb6cb3a6c39042975684036fde1c4886aa41520b
+Z
+*src/test/java/MathUtils/MathUtilsTest.java,4\1\41f64ea12363e9a65c581673a0f7e7e038ed56d1

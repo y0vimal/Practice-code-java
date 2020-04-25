@@ -1,10 +1,10 @@
 
 B
 java:S1602",Remove useless curly braces around statement(ßÙÇ”
-v
-java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(’î”ª
 S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô´©Çûÿÿÿÿ
 v
 java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(—ú÷Ú
+v
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(’î”ª
 V	java:S125
 "<This block of commented-out lines of code should be removed.(Ô‰ÊÇúÿÿÿÿ
