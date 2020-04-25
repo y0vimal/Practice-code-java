@@ -1,0 +1,16 @@
+
+i
+java:S1602)"SRemove useless curly braces around statement and then remove useless return keyword(¹…‘€
+G
+java:S1602G",Remove useless curly braces around statement(Ò¼Ãÿÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+V	java:S125"<This block of commented-out lines of code should be removed.(‹áø­üÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(îãõâ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ìô€
+Q	java:S125!"<This block of commented-out lines of code should be removed.(à«Àô
+V	java:S125&"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(¤ê‰Ùøÿÿÿÿ
+V	java:S1253"<This block of commented-out lines of code should be removed.(šìõáıÿÿÿÿ
+Q	java:S1259"<This block of commented-out lines of code should be removed.(ª¡³³
+V	java:S125;"<This block of commented-out lines of code should be removed.(ì©¨›úÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(ãÖ£Ñıÿÿÿÿ

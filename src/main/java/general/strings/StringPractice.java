@@ -1,6 +1,7 @@
 package general.strings;
 
 public class StringPractice {
+
     public static void main(String[] args){
         /*
         * immutable string class
